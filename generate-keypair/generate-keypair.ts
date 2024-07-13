@@ -1,4 +1,7 @@
-/*import { Keypair } from "@solana/web3.js";
+/*
+// Uncomment and run the first part of the code and store the private key in a .env file
+// in the format SECRECT_KEY ="[ ]"
+import { Keypair } from "@solana/web3.js";
 
 const keypair = Keypair.generate();
 
