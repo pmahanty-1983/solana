@@ -4108,3 +4108,4 @@ create-transaction/node_modules/ws/lib/stream.js
 create-transaction/node_modules/ws/lib/validation.js
 create-transaction/node_modules/ws/lib/websocket-server.js
 create-transaction/node_modules/ws/lib/websocket.js
+create-transaction/.env
